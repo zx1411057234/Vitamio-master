@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Vitamio-master.iml" filepath="$PROJECT_DIR$/.idea/modules/Vitamio-master.iml" group="Vitamio-master" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Vitamio-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vitamio-arm64/vitamio-arm64.iml" filepath="$PROJECT_DIR$/.idea/modules/vitamio-arm64/vitamio-arm64.iml" group="Vitamio-master/vitamio-arm64" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vitamio-armv7a/vitamio-armv7a.iml" filepath="$PROJECT_DIR$/.idea/modules/vitamio-armv7a/vitamio-armv7a.iml" group="Vitamio-master/vitamio-armv7a" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vitamio-java/vitamio-java.iml" filepath="$PROJECT_DIR$/.idea/modules/vitamio-java/vitamio-java.iml" group="Vitamio-master/vitamio-java" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vitamio-x86/vitamio-x86.iml" filepath="$PROJECT_DIR$/.idea/modules/vitamio-x86/vitamio-x86.iml" group="Vitamio-master/vitamio-x86" />
+    </modules>
+  </component>
+</project>
